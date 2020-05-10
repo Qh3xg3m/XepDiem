@@ -57,7 +57,7 @@ def soSanh(a,b):
 	else:
 		return(False)
 
-print("\t\t\t","Author: facebook.com/quymaxlaayf")
+print("\t\t\t","Author: Qh3xg3m")
 
 while True:
 	print()
